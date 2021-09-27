@@ -1,4 +1,5 @@
-![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/85139853/134852869-e82b1ae6-639e-4cd3-aa80-88fba50603bd.png)
+<img width="1391" alt="Screen Shot 2021-09-26 at 11 06 03 PM" src="https://user-images.githubusercontent.com/85139853/134853338-f58de803-85dd-4105-8f05-5f7fdc2da3f2.png">
+
 
 
 <!--
