@@ -1,4 +1,5 @@
-### Hi there 👋
+![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/85139853/134852869-e82b1ae6-639e-4cd3-aa80-88fba50603bd.png)
+
 
 <!--
 **Richard-Watanabe/Richard-Watanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
