@@ -1,5 +1,4 @@
-![Screen Shot 2021-09-27 at 2 59 34 PM](https://user-images.githubusercontent.com/85139853/134991271-87983a2c-b731-49cf-99dc-628d65c3dedf.png)
-
+![Screen Shot 2021-09-27 at 3 02 16 PM](https://user-images.githubusercontent.com/85139853/134991478-a4c59079-402a-4b2a-9393-79003755c1e0.png)
 
 <!--
 **Richard-Watanabe/Richard-Watanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
