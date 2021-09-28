@@ -3,9 +3,9 @@
 ![Richard's gitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-Watanabe&theme=react&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Watanabe&theme=react&layout=compact&line_height=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## About Me 👋
+## Hi there 👋
 
-I am a full-stack developer who loves challenges, and enjoys seeing my skills improving whether it be in coding or anything else. 
+My name is Richard Watanabe, and I am a full-stack developer who loves challenges, and enjoys seeing my skills improve whether it be in coding or anything else. 
 Outside of coding, I challenge myself competing in martial-arts(kendo)🥋, playing video games🎮, and taking care of my dog🐕.
 
 ## Technologies 💻
